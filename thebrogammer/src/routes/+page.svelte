@@ -2,10 +2,8 @@
 
 <div class="container h-full mx-auto flex justify-center items-center">
 	<div class="space-y-10 text-center flex flex-col items-center">
-		<h2 class="h2">Sebastian Serrano</h2>
-		<!-- Picture of me -->
-		
-		<!-- / -->
+		<h1 class="h1">Sebastian Serrano</h1>
+		<h2 class="h2">🚧Under Construction🚧</h2>
 		<div class="space-y-2">
 			<p>Click On One of the Following!</p>
 			<p><code>Projects</code></p>
@@ -15,7 +13,7 @@
 		<footer>
 			<div class="flex justify-center space-x-2">
 				<a
-					href=""
+					href="https://github.com/sebastianserrano23/My-Portfolio"
 					target="_blank"
 					rel="noreferrer">
 					Source Code For This Portfolio
