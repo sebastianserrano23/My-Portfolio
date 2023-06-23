@@ -23,7 +23,7 @@
 				<strong class="text-xl uppercase">The Brogrammer</strong>
 			<svelte:fragment slot="trail">
 				<button class="btn variant-filled">
-					Discord
+					Home
 				</button>
 				<button class="btn variant-filled">
 					<a href="https://www.linkedin.com/in/sebastian-serrano-a11a57198?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BasHmyvdlQW%2BJYuuByYcy4A%3D%3D"
